@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>SYKA EBAT TYA NA ROT</div>
+        <div>THIS IS TESOVOE MESSAGE</div>
       </header>
     </div>
   );

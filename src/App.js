@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>Hello worrld!</div>
+        <div>SYKA EBAT TYA NA ROT</div>
       </header>
     </div>
   );
